@@ -28,6 +28,7 @@
 - [USB MIDI API](https://www.pjrc.com/teensy/td_midi.html)
 - [core.a fix/modification](https://arduino.github.io/arduino-cli/1.4/platform-specification/#recipes-to-build-the-corea-archive-file)
 - [TeeOnArdu PR](https://github.com/adafruit/TeeOnArdu/pull/3)
+- [ATMEGA Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Summary.pdf)
 
 **notes**
 
